@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eshaanmandal
-- 👀 I’m interested in embedded programming, data-science
+- 👀 I’m interested in embedded programming, and programming in general
 - 🌱 I’m currently learning embedded system design
 - 💞️ I’m looking to collaborate on electronic projects
 - 📫 How to reach me email: eshaanmandal29@gmail.com
