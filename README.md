@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eshaanmandal
-- 👀 I’m interested in embedded programming, and programming in general
-- 🌱 I’m currently learning embedded system design
-- 💞️ I’m looking to collaborate on electronic projects
+- 👀 I’m interested in programming and building software
+- 🌱 I’m currently learning Java, Flask and Python
+- 💞️ I’m looking to collaborate on software and ML projects
 - 📫 How to reach me email: eshaanmandal29@gmail.com
 
 <!---
