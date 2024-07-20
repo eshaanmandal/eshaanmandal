@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eshaanmandal
-- 👀 I’m interested in programming and building software
-- 🌱 I’m currently learning Java, Flask and Python
-- 💞️ I’m looking to collaborate on software and ML projects
+- 👀 I’m interested in digital design and verification
+- 🌱 I’m currently learning Verilog, System Verilog, C++
 - 📫 How to reach me email: eshaanmandal29@gmail.com
 
 <!---
